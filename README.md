@@ -2,7 +2,10 @@
 
 A macOS menu bar utility that renders a compact floating overlay for the German MacBook keyboard layout.
 
-![](./docs/preview.png)
+<img width="360" src="./docs/preview.png" />
+
+https://github.com/user-attachments/assets/8671c87b-845f-4223-9756-4ec0c911d264
+
 
 ## Features
 
