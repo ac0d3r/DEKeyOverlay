@@ -1,6 +1,6 @@
 # DEKeyOverlay
 
-A macOS menu bar utility that renders a compact German keyboard overlay.
+A macOS menu bar utility that renders a compact floating overlay for the German MacBook keyboard layout.
 
 ![](./docs/preview.png)
 
@@ -9,7 +9,7 @@ A macOS menu bar utility that renders a compact German keyboard overlay.
 - `Option + Command + K` toggles the overlay
 - translucent floating panel with rounded corners
 - fully rendered keyboard overlay, no image assets required
-- live `Shift` layer switching
+- live updates when `Shift` is pressed
 - menu bar extra labeled `DEK`
 
 ## Development

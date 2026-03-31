@@ -8,6 +8,8 @@
 	<string>DEKeyOverlay</string>
 	<key>CFBundleExecutable</key>
 	<string>DEKeyOverlay</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.ac0d3r.DEKeyOverlay</string>
 	<key>CFBundleInfoDictionaryVersion</key>
